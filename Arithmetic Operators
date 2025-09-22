@@ -1,0 +1,20 @@
+code:
+
+a=int(input())
+b=int(input())
+print(a+b)
+print(a-b)
+print(a*b)
+
+-----------------------------------------------------------------
+
+sample input:
+
+3
+2
+
+sample output:
+
+5
+1
+6
