@@ -1,0 +1,19 @@
+code:
+
+n=int(input())
+for i in range(n):
+    print(i**2)
+
+------------------------------------------------------------
+
+sample input:
+
+5
+
+sample output:
+
+0
+1
+4
+9
+16
