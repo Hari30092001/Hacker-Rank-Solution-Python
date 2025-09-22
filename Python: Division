@@ -1,0 +1,18 @@
+code:
+
+a=int(input())
+b=int(input())
+print(a//b)
+print(a/b)
+
+-------------------------------------------------------------------
+
+sample input:
+
+4
+3
+
+sample output:
+
+1
+1.33333333333
