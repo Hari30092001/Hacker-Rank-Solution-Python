@@ -1,0 +1,20 @@
+code:
+
+def swap_case(a):
+    x=a.swapcase()
+    return x
+
+if __name__ == '__main__':
+    s = input()
+    result = swap_case(s)
+    print(result)
+
+--------------------------------------------------------------------------------------
+
+sample input:
+
+HackerRank.com presents "Pythonist 2".
+
+sample output:
+
+hACKERrANK.COM PRESENTS "pYTHONIST 2".
